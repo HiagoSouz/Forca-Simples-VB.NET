@@ -21,7 +21,7 @@
         palavraEscolhida = palavras.ToCharArray()
 
 
-
+        'Realizando teste'
         ' Adicione qualquer inicialização após a chamada InitializeComponent().
 
     End Sub
