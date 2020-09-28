@@ -1,0 +1,13 @@
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\bin\Debug\Forca Simples.exe.config
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\bin\Debug\Forca Simples.exe
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\bin\Debug\Forca Simples.pdb
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\bin\Debug\Forca Simples.xml
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.vbprojAssemblyReference.cache
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca_Simples.Form1.resources
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca_Simples.Resources.resources
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.vbproj.GenerateResource.cache
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.vbproj.CoreCompileInputs.cache
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.exe
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.xml
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca Simples.pdb
+C:\Users\Hiago\source\repos\Forca Simples\Forca Simples\obj\Debug\Forca_Simples.Form2.resources
